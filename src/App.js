@@ -1,4 +1,5 @@
 import './App.css';
+import React from 'react';
 import header from './components/header'
 
 const App = () =>{
