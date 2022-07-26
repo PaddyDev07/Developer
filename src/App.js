@@ -1,12 +1,8 @@
 import './App.css';
 import header from './components/header'
 
-function App() {
-  return (
-   <>
-   <header></header>
-   </>
-  );
+const App = () =>{
+  return <header/>
 }
 
 export default App;
