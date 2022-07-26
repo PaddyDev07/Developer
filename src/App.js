@@ -1,9 +1,9 @@
 import './App.css';
 import React, {Component} from 'react';
-import header from './components/header'
+import Header from './components/header';
 
 const App = () =>{
-  return <header/>
+  return <Header/>
 }
 
 export default App;
